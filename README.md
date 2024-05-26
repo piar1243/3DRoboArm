@@ -1,4 +1,4 @@
-hello,
+Hello,
 
 Attachd are files for the 3D model of the robotic arm so you can 3D print it, and the code scripts for ros and arduino are
 also there.
