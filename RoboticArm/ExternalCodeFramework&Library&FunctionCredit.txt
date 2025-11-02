@@ -1,0 +1,6 @@
+External Code Framework/Library/Function Credit:
+1) Kitamura, Fusion2URDF → aided in conversion of Fusion 360 3D model to URDF
+2) Adafruit, TCA9548A → code function to switch between encoders
+3) Curious Scientist, AS5600 encoder tutorial → AS5600 read angle function
+4) ROS → robotic arm’s framework
+5) MoveIt → robotic arm kinematic motion planning
